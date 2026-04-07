@@ -1,61 +1,39 @@
-<h2 align="left">About Me</h2>
+<h1 align="center">Hi 👋, I'm Layla Nascimento</h1>
+<h3 align="center">Desenvolvedora Júnior | Backend | Cloud em formação ☁️</h3>
 
-###
+<h2 align="left">🇧🇷 Sobre mim</h2>
 
-<p align="left">-Estudante de Análise e Desenvolvimento de Sistemas.<br>-Monitora da matéria de Banco de Dados.<br>- Monitora voluntária da matéria de Banco de Dados.<br>-Gosto das linguagens Java e SQL.</p>
+<p align="left">
+👩‍💻 Desenvolvedora Júnior formada em Análise e Desenvolvimento de Sistemas.<br>
+💼 Experiência com desenvolvimento de APIs REST e sistemas web utilizando Laravel.<br>
+📊 Vivência com banco de dados, modelagem, otimização de consultas e performance.<br>
+🔐 Conhecimento em autenticação e segurança (JWT, Sanctum, OAuth2).<br>
+☁️ Atualmente focada em Cloud com AWS.<br>
+🚀 Buscando evoluir continuamente e contribuir com soluções eficientes e escaláveis.
+</p>
 
-###
+<h2 align="left">🇺🇸 About Me</h2>
 
-<h2 align="left">Techs</h2>
+<p align="left">
+👩‍💻 Junior Developer with a degree in Systems Analysis and Development.<br>
+💼 Experience building REST APIs and web applications using Laravel.<br>
+📊 Knowledge of databases, data modeling, query optimization, and performance improvement.<br>
+🔐 Familiar with authentication and security using JWT, Sanctum, and OAuth2.<br>
+☁️ Currently focusing on Cloud and AWS.<br>
+🚀 Always looking to improve my skills and contribute to efficient and scalable solutions.
+</p>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
+<h2 align="center">Techs</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaylaNasc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaylaNasc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaylaNasc&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,html,css,mysql,aws,docker,git,vscode,python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="oracle logo" />
 </div>
-
-###
 
 <h2 align="left">Social Media</h2>
 
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/layla-nascimento" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
-
-###
